@@ -1,0 +1,67 @@
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe.config
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.pdb
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.Properties.Resources.resources
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.exe
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.pdb
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.CrosswordForm.resources
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.HintForm.resources
+C:\Users\Danil\Desktop\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\Puzzles\puzzle_1.pzl
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\Puzzles\puzzle_1.pzl
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe.config
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.pdb
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.AssemblyReference.cache
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.CrosswordForm.resources
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.HintForm.resources
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.Properties.Resources.resources
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.GenerateResource.cache
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.CoreCompileInputs.cache
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.exe
+D:\Обучение\Програмирование\Crossword Puzzle\CrosswordPuzzle\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.pdb
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\bin\Debug\Puzzles\puzzle_1.pzl
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.CrosswordForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.HintForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.Properties.Resources.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.exe
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.pdb
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe.config
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.pdb
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.MainForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.NewCrosswordForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.CrosswordForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.HintForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.MainForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.NewCrosswordForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.Properties.Resources.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.exe
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.pdb
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\bin\Debug\Puzzles\puzzle_1.pzl
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe.config
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe
+C:\Users\Данил\Desktop\CrosswordPuzzle Test Test\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.pdb
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\bin\Debug\Puzzles\puzzle_1.pzl
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe.config
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.exe
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\bin\Debug\CrosswordPuzzle.pdb
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.CrosswordForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.HintForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.MainForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.NewCrosswordForm.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.Properties.Resources.resources
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.exe
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\obj\Debug\CrosswordPuzzle.pdb
+C:\Users\Данил\Desktop\CrosswordPuzzle Курсовая\CrosswordPuzzle\bin\Debug\Database\CrosswordBD.accdb
